@@ -5,7 +5,7 @@ is a small, simple app which helps to calculate your body fat based on height an
 
 Before we start, you can take a look at the app:
 
-![Output sample](assets/videos/BMI.mp4)
+![Output sample](assets/demo.gif)
 
 ## Key Features
 
